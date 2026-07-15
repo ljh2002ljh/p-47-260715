@@ -3,5 +3,6 @@ public class Main {
         System.out.println("== 명언 앱 ");
         System.out.println("명령) 종료");
         System.out.println(123);
+        System.out.println(456);
     }
 }
